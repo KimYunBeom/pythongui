@@ -22,4 +22,5 @@ Python 3.10.1
 
 ```console
 $ pip install Pillow
+$ pip install keyboard
 ```
